@@ -1,0 +1,9 @@
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\bin\Release\ResponsiveWindowsApp.exe.config
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\bin\Release\ResponsiveWindowsApp.exe
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\bin\Release\ResponsiveWindowsApp.pdb
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\obj\Release\ResponsiveWindowsApp.csprojResolveAssemblyReference.cache
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\obj\Release\ResponsiveWindowsApp.ResponsiveForm.resources
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\obj\Release\ResponsiveWindowsApp.Properties.Resources.resources
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\obj\Release\ResponsiveWindowsApp.csproj.GenerateResource.Cache
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\obj\Release\ResponsiveWindowsApp.exe
+c:\users\mrony\documents\visual studio 2015\Projects\ResponsiveWindowsApp\ResponsiveWindowsApp\obj\Release\ResponsiveWindowsApp.pdb
